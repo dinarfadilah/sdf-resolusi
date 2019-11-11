@@ -2,7 +2,9 @@ RENCANA KONTEN SDF
 - javascript
   *es6
   *framework js
-- struktur data dasar
+   ^ angular
+   ^ react
 - PHP framework
+ ^ laravel
 - interview
 - vlog

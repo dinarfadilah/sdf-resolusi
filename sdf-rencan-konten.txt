@@ -3,6 +3,7 @@ RENCANA KONTEN SDF
   *es6
   *framework js
    ^ view
+   ^ react
 - struktur data dasar
 - PHP framework
  ^ laravel
